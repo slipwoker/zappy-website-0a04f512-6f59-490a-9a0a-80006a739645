@@ -1,0 +1,66 @@
+# ללכת איתך — Generative Engine Optimization Map
+
+> תייצר לי דף נחיתה לחנות הנעליים שלי
+
+---
+
+## Pages
+
+### דף הבית
+https://-0a04f512.zappy5.app
+גלו את הנעליים המושלמות לעובדי קמעונאות שעומדים כל היום. נוחות בלתי מתפשרת, תמיכה אורטופדית ועיצוב שיקי. הצעד הראשון לרגליים מאושרות מתחיל כאן!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0a04f512.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0a04f512.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0a04f512.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-0a04f512.zappy5.app
+- Endpoint: https://-0a04f512.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ללכת איתך
+תייצר לי דף נחיתה לחנות הנעליים שלי
+
+## Target Audience
+- מקצוענים צעירים עירוניים
+- מבוגרים פעילים
+- הורים קונים לילדים
+
+## Industry
+Footwear Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-0a04f512.zappy5.app/sitemap.xml
+- Robots: https://-0a04f512.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-0a04f512.zappy5.app/llms-full.txt
